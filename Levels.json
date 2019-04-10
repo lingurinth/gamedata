@@ -783,7 +783,7 @@
           "bestanden": false
         }
       ],
-      "weiterkommen": 10,
+      "weiterkommen": 1,
       "anforderungsniveau": 14,
       "raus": 2,
       "wiederholen": 2,
@@ -4236,7 +4236,7 @@
       },
       "anforderungsniveau": 3,
       "questText": "Im Gegensatz zu Zauberern, die auf eine komplizierte Hierarchie Wert legen, können sich Hexen kaum mit einer strukturierten Organisation der beruflichen Laufbahn anfreunden.",
-      "fettdruck": "strukturieren"
+      "fettdruck": "strukturierten"
     },
     {
       "number": 79,
